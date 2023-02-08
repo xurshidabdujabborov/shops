@@ -1,0 +1,51 @@
+.Carusel {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.Carusel p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    color: #323941;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Carusel .box {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.Carusel .box img{
+    background-color: #C6C6C6;
+    border-radius: 50%;
+}
+
+.Carusel .box h3 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 23px;
+    color: black;
+    margin-top: 20px;
+}
+
+.Carusel .box button {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    background-color: transparent;
+    border: none;
+    width: 120px;
+    height: 40px;
+    border: 1px solid #C6C6C6;
+    color: #C6C6C6;
+    margin-top: 20px;
+}
+.Carusel .box button:hover{
+    cursor: pointer;
+    transition: 1s;
+    background-color: #009EFF;
+    color: white;
+    border: none;
+}

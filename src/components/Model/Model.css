@@ -1,0 +1,100 @@
+.Model {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.Model h2.title {
+    text-transform: uppercase;
+}
+
+.Model p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    margin-top: 18px;
+    color: #323941;
+    text-align: center;
+}
+
+.Model .box {
+    margin-top: 70px;
+    text-align: center;
+}
+
+.Model .box span {
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    color: black;
+    text-transform: uppercase;
+}
+
+.Model .tabs {
+    margin-top: 50px;
+}
+
+.Model .tabs .css-1ex1afd-MuiTableCell-root {
+    color: #009EFF;
+}
+
+.Model .tabs .css-1ygcj2i-MuiTableCell-root {
+    color: #009EFF;
+}
+
+/* .Model .tabs .css-34nofg-MuiTableRow-root{
+    border: none;
+    background-color: red;
+
+} */
+.Model .tabs .css-11xur9t-MuiPaper-root-MuiTableContainer-root {
+    background-color: white;
+    box-shadow: none;
+    border: none;
+}
+.Model .text{
+    text-align: center;
+}
+.Model .text button{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    width: 180px;
+    height: 40px;
+    margin-top: 15px;
+    background-color: #009EFF;
+    border: none;
+    color: white;
+}
+.Model .text button:hover{
+    cursor: pointer;
+    transition: 1s;
+}
+.Model .boxs{
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    border: 5px solid #009EFF;
+    margin-top: 120px;
+    padding: 30px 50px;
+}
+.Model .boxs .img{
+    text-align: right;
+}
+.Model .boxs .card{
+    margin-left: 50px;
+    text-align: left !important;
+}
+.Model .boxs .card h2.title{
+    margin: 0;
+    padding: 0;
+    text-align: left !important;
+}
+.Model .boxs .card p{
+    text-align: left !important;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+}

@@ -1,0 +1,45 @@
+.video {
+    max-width: 1370px;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.video .box {
+    position: relative;
+    text-align: left;
+}
+
+.video .box video {
+    width: 100%;
+    margin-top: 25px;
+}
+
+.video .img {
+    text-align: right;
+}
+
+.video .img img {
+    width: 420px;
+    background-color: #009EFF;
+    border-radius: 50%;
+}
+
+.video .box .vdIcon {
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.video .box .vdIcon:hover{
+    cursor: pointer;
+}
+.video .box .vdIcon .css-i4bv87-MuiSvgIcon-root{
+    color: white;
+    font-size: 40px;
+}

@@ -1,0 +1,82 @@
+.Step {
+    width: 100%;
+    margin-top: 70px;
+}
+
+.Step .text {
+    text-align: center;
+}
+
+.Step .text h2.title {
+    color: black;
+    text-transform: uppercase;
+}
+
+.Step .text p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    color: black;
+    margin-top: 20px;
+}
+
+.Step .text img {
+    width: 100%;
+}
+
+.Step .box {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    border: 5px solid #009EFF;
+    padding: 20px;
+}
+
+.Step .box .card {
+    width: 50%;
+}
+
+.Step .box .var {
+    margin-left: 50px;
+    text-align: left;
+}
+
+.Step .box .var h3 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    color: black;
+    text-transform: uppercase;
+}
+
+.Step .box .var .flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.Step .box .var .flex .center {
+    display: flex;
+    align-items: center;
+}
+
+.Step .box .var .flex .center span {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #323941;
+    margin-left: 10px;
+}
+.Step .box .var button{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: white;
+    background: #009EFF;
+    width: 200px;
+    height: 40px;
+    border: none;
+    margin-top: 30px;
+}
